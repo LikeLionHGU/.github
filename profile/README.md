@@ -1,5 +1,7 @@
-# Git Task Cycle ♼
+#  🦁 LIKELION HANDONG 
 
+## Git Task Cycle ♼
+멋쟁이사자처럼 한동대학교의 구성원은 아래와 같은 컨벤션을 따릅니다. 업데이트 하고 싶은 내용이 있다면 Pull Requests 바랍니다. 
 
 <br />
 <br />
@@ -75,3 +77,6 @@ ex)💄 style : 텍스트 디자인시스템 구축
 ✹  Pull Request 제목 작성법
 
 이름_타입/#이슈번호 → 풀 시킬 브랜치 (ex. Hani_Style/#1 -> dev)
+
+
+작성자: @chamroro

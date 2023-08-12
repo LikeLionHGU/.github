@@ -51,7 +51,7 @@ feat : 로그인
 ex)style : 텍스트 디자인시스템 구축
 ```
 
-|  |  |  |  
+|  |  |  |
 | --- | --- | --- |
 | type | Description | Example |
 | feat | 새로운 기능 추가, 구현 | feat : 로그인 기능 구현 |
